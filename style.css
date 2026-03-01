@@ -194,7 +194,8 @@ img {
     z-index: 1;
     /* Glow shadow */
     box-shadow: 0 0 10px #00abf0;
-    margin-top: 9px;
+    display: block;
+    margin: 9px auto 0;
 }
 
 /* The "Sliding Background" Effect */
